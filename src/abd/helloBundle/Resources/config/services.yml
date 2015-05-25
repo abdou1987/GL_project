@@ -1,0 +1,7 @@
+parameters:
+#    abdhello.example.class: abd\helloBundle\Example
+
+services:
+#    abdhello.example:
+#        class: %abdhello.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

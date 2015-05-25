@@ -1,0 +1,4 @@
+abdhello:
+    resource: "@abdhelloBundle/Resources/config/routing.yml"
+    prefix:   /
+
